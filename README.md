@@ -1,1 +1,1 @@
-# nkdosug.github.io
+# github.io
